@@ -1,0 +1,20 @@
+current directory: /Users/jeroesguerra/Sites/youtube-rails/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/jeroesguerra/.rbenv/versions/3.2.0/bin/ruby -I /Users/jeroesguerra/.rbenv/versions/3.2.0/lib/ruby/site_ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/jeroesguerra/Sites/youtube-rails/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240208-89805-e78n2q sitelibdir\=./.gem.20240208-89805-e78n2q clean
+
+current directory: /Users/jeroesguerra/Sites/youtube-rails/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240208-89805-e78n2q sitelibdir\=./.gem.20240208-89805-e78n2q
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/jeroesguerra/Sites/youtube-rails/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240208-89805-e78n2q sitelibdir\=./.gem.20240208-89805-e78n2q install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20240208-89805-e78n2q
+
+current directory: /Users/jeroesguerra/Sites/youtube-rails/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240208-89805-e78n2q sitelibdir\=./.gem.20240208-89805-e78n2q clean
